@@ -8,3 +8,4 @@ pandas
 bs4
 fastai
 ipywidgets
+spacy==2.2.4
