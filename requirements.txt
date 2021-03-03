@@ -3,3 +3,8 @@ ipympl
 ipyvolume
 scipy
 voila
+fastbook
+pandas
+bs4
+fastai
+ipywidgets
